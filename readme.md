@@ -5,5 +5,5 @@ This is the solution to whatever little I remember of the problem.
 
 Instructions
 
-javac TravelLoops.java
-java TravelLoops
+-> javac TravelLoops.java
+-> java TravelLoops
