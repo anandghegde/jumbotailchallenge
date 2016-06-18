@@ -1,0 +1,5 @@
+4
+Bombay->Goa->Delhi->Bombay->Frankfurt->Boston->Washington->Boston
+Bangalore->Mysore->Gulbarga->Bangalore->Mysore->Bombay->Pune
+Bombay->Goa->Bangalore->Mysore
+A->B->C->D->C->E
